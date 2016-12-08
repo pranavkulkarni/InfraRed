@@ -1,0 +1,14 @@
+aws_nodejs/config.json
+aws_nodejs/node_modules
+aws_nodejs/npm-debug.log
+
+provisioning_service/node_modules/
+BOT/node_modules/
+bot_apiai/node_modules/
+
+*/.idea/*
+*/*.classpath
+*/*.project
+*/*.iml
+*/*.prefs
+
